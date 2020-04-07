@@ -79,7 +79,7 @@ public class Ch5Activity extends AppCompatActivity {
         builder.setPositiveButton("confirm", new DialogInterface.OnClickListener(){
             @Override
             public void onClick(DialogInterface dialogInterface, int i) {
-                //添加
+                //添 加
                 Toast.makeText(Ch5Activity.this,"confirm",Toast.LENGTH_SHORT).show();
             }
         });
