@@ -95,7 +95,7 @@ public class Ch5Activity extends AppCompatActivity {
                 Toast.makeText(Ch5Activity.this,"cancel",Toast.LENGTH_SHORT).show();
             }
         });
-        builder.create().show();
+
 
     }
 
