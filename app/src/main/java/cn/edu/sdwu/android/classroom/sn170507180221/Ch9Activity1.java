@@ -35,7 +35,7 @@ public class Ch9Activity1 extends AppCompatActivity {
                 while (i<100){
                     progressBar.setProgress(i);
                     try {
-                        Thread.sleep(1000);
+                        Thread.sleep(1000);//暂停操作
                     }catch (Exception e){
 
                     }
